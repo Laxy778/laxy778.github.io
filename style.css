@@ -1,0 +1,25 @@
+P
+{
+    color:rgb(99, 192, 161);
+    font-size: 16pt;
+}
+body
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(20, 43, 23);
+    background-image: url(golem.jfif);
+    background-size: cover;
+}
+#id
+{
+    font-size: 30pt;
+    color:rgb(20, 175, 124);
+}
+
+
+.arima-300 {
+    font-family: "Arima", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+  }
