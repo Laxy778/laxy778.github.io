@@ -9,6 +9,8 @@ body
     background-color: rgb(20, 43, 23);
     background-image: url(golem.jfif);
     background-size: cover;
+    max-width: 800px;
+    margin: auto;
 }
 #id
 {
