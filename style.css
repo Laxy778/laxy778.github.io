@@ -19,12 +19,14 @@ body
 }
 
 
-.arima-300 {
+.arima-300 
+{
     font-family: "Arima", system-ui;
     font-optical-sizing: auto;
     font-weight: 300;
     font-style: normal;
-  }
+}
+
 
 
 
